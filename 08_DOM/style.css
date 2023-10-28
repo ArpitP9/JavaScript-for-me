@@ -1,0 +1,43 @@
+#bulb{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border: 5px solid black;
+}
+
+#red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 5px solid black;
+}
+
+#green{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border: 5px solid black;
+}
+
+#blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+#purple{
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    border: 5px solid black;
+}
+
+
+
+button{
+    padding: 10px 30px;
+    font-size:30px ;
+    margin: 80px;
+}
+
